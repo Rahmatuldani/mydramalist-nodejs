@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 const LoginPage = () => {
   return (
-    <div className='login-page'>LoginPage</div>
-  )
-}
+    <div className="login-page">LoginPage</div>
+  );
+};
 
-export { LoginPage }
+export { LoginPage };
