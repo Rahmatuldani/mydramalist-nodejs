@@ -56,7 +56,7 @@ const NavigationBar = () => {
           </form>
           <div className="auth-btn">
             <a href="#!" className="text-secondary">Sign up</a>
-            <a href="#!" className="text-secondary">Log in</a>
+            <a href="/login" className="text-secondary">Log in</a>
           </div>
         </div>
       </div>
